@@ -11,3 +11,9 @@ friends.push('pailam');
 numbers.pop();
 numbers.pop();
 console.log(numbers);
+
+numbers.unshift(12);
+console.log(numbers);
+
+numbers.shift();
+console.log(numbers);
